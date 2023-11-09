@@ -1,16 +1,17 @@
-# edumatch
+# EduMatch
 
-A new Flutter project.
+Welcome to EduMatch, your go-to mobile app for seamlessly connecting tutors with students. This app simplifies the process of finding the perfect tutor for your academic needs.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot 1](/images/screenshot1.png)
+![Screenshot 2](/images/screenshot2.png)
+![Screenshot 3](/images/screenshot3.png)
+![Screenshot 4](/images/screenshot4.png)
+![Screenshot 5](/images/screenshot5.png)
+![Screenshot 6](/images/screenshot6.png)
+![Screenshot 7](/images/screenshot7.png)
 
-A few resources to get you started if this is your first Flutter project:
+## PDF Documentation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For detailed information about using TutorMatch, please refer to our [PDF Documentation](/images/EduMatch_doc.pdf). 
